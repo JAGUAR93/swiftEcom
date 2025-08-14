@@ -20,7 +20,7 @@ How to Run
 
 # Clone the repository:
 
-git clone git@github.com:JAGUAR93/swiftCart.git
+git clone https://github.com/JAGUAR93/swiftEcom.git
 
 
 Open swiftCart.xcodeproj in Xcode
