@@ -1,4 +1,4 @@
-SwiftCart – E-commerce App with Cart Management
+#SwiftCart – E-commerce App with Cart Management
 
 To use the app, simply launch it on your device or simulator.
 
@@ -28,9 +28,6 @@ Open swiftCart.xcodeproj in Xcode
 Select a simulator or connected iPhone
 
 Click Run ▶
-![img3](https://github.com/user-attachments/assets/6e1ee9b3-2ccf-4c99-b2d2-d5e79be09847)
-![img1](https://github.com/user-attachments/assets/e729acf2-d1f0-4c81-b13a-7bf04d6abfec)
-![imag2](https://github.com/user-attachments/assets/2a5eba50-fb92-4ca9-a5b9-c7cb9ae32c3a)
 
 Contact Me
 
@@ -39,3 +36,9 @@ If by any means the application encounters an error, feel free to contact me:
 
 Thanks and Regards,
 Rishabh Kumar
+
+
+Image of the applications UI:
+![img3](https://github.com/user-attachments/assets/6e1ee9b3-2ccf-4c99-b2d2-d5e79be09847)
+![img1](https://github.com/user-attachments/assets/e729acf2-d1f0-4c81-b13a-7bf04d6abfec)
+![imag2](https://github.com/user-attachments/assets/2a5eba50-fb92-4ca9-a5b9-c7cb9ae32c3a)
